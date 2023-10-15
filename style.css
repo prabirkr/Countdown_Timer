@@ -1,0 +1,31 @@
+
+.container {
+    background-color: rgb(179, 179, 219);
+    height: 100%;
+    width: 100%;
+    padding-bottom: 20%;
+    padding-top: 10%;
+}
+.box {
+        width: 500px;
+        border: 5px solid rgb(149, 140, 245);
+        background-color: rgb(115, 136, 241);
+        overflow: hidden;
+        color: red;
+        padding: 100px;
+        margin: auto;
+}
+
+.text {
+    text-align: center;
+    color: rgb(249, 168, 6);
+}
+#timer {
+    font-size: 80px;
+    text-align: center;
+    margin-top: 30px;
+}
+#buttons {
+    text-align: center;
+    margin-top: 20px;
+}
